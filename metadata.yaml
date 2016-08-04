@@ -1,0 +1,53 @@
+_repo: Night-and-Day_1245
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woolf, Virginia
+    aliases:
+    - Stephen, Virginia
+    - Woolf, Virginia Stephen
+    birthdate: 1882
+    deathdate: 1941
+    gutenberg_agent_id: '89'
+    url: http://www.gutenberg.org/2009/agents/89
+    wikipedia: http://en.wikipedia.org/wiki/Virginia_Woolf
+description: "Night and Day is a novel by Virginia Woolf first published on 20 October\
+  \ 1919. Set in Edwardian London, Night and Day contrasts the daily lives and romantic\
+  \ attachments of two acquaintances, Katharine Hilbery and Mary Datchet. The novel\
+  \ examines the relationships between love, marriage, happiness, and success.\nDialogue\
+  \ and descriptions of thought and actions are used in equal amount, unlike in Woolf's\
+  \ later book, To the Lighthouse. There are four major characters, Katharine Hilbery,\
+  \ Mary Datchet, Ralph Denham, and William Rodney. Night and Day deals with issues\
+  \ concerning women's suffrage, if love and marriage can coexist, and if marriage\
+  \ is necessary for happiness. Motifs throughout the book includes the stars and\
+  \ sky, the River Thames, and walks. Also, Woolf makes many references to the works\
+  \ of William Shakespeare, especially As You Like It.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1998-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1245'
+  wikidata: Q1610831
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'Poets -- Family relationships -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcsh 'Biographers -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- GITenberg
+title: Night and Day
+url: http://www.gutenberg.org/ebooks/1245
+wikipedia:
+- https://fr.wikipedia.org/wiki/Nuit_et_Jour_(roman)
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%84%D9%8A%D9%84_%D9%88%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%B1
+- https://pt.wikipedia.org/wiki/Night_and_Day_(livro)
+- https://es.wikipedia.org/wiki/Noche_y_d%C3%ADa_(novela)
+- https://en.wikipedia.org/wiki/Night_and_Day_(Woolf_novel)
+- https://it.wikipedia.org/wiki/Notte_e_giorno
