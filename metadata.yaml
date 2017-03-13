@@ -1,5 +1,8 @@
 _repo: Night-and-Day_1245
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Woolf, Virginia
@@ -22,6 +25,8 @@ description: "Night and Day is a novel by Virginia Woolf first published on 20 O
   \ is necessary for happiness. Motifs throughout the book includes the stars and\
   \ sky, the River Thames, and walks. Also, Woolf makes many references to the works\
   \ of William Shakespeare, especially As You Like It.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1245#Night-and-Day
 gutenberg_issued: '1998-03-01'
 gutenberg_type: Text
 identifiers:
